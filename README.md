@@ -1,2 +1,2 @@
-# Hello_world
-The first repositories
+
+print("hello_world")
